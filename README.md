@@ -1,6 +1,8 @@
 QUICK COMMANDS CHEAT SHEET
 
-Linux Commands: ls = list files and directories
+Linux Commands:
+                
+                ls = list files and directories
 
                 cd = change directory
 
@@ -17,7 +19,9 @@ Linux Commands: ls = list files and directories
                 touch = create empty file or update file timestamps
 
 
-Git Commands:   git init = initialize an existing directory as a Git repository
+Git Commands:  
+
+                git init = initialize an existing directory as a Git repository
 
                 git clone [url] = retrieve an entire repository from a hosted location via URL
 
